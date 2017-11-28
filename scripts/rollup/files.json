@@ -1,0 +1,4 @@
+{
+  "entry": "src/index.js",
+  "dest": "lib/react-dom-lite.cjs.js"
+}
