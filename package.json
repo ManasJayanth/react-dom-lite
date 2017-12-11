@@ -1,6 +1,6 @@
 {
   "name": "react-dom-lite",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description":
     "Custom react renderer which is a light weight implementation of React DOM",
   "main": "lib/react-dom-lite.cjs.js",
